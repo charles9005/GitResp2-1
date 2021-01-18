@@ -1,6 +1,6 @@
 package com.lsw.testgit;
 
-public class Student {
-    private int sno;
+public class Person {
+    private int age;
     String name;
 }
